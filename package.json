@@ -1,0 +1,24 @@
+{
+  "name": "node-web-app",
+  "version": "1.0.0",
+  "description": "Dockerizing a Node.js web app",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yingyuk/node-web-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yingyuk/node-web-app/issues"
+  },
+  "homepage": "https://github.com/yingyuk/node-web-app#readme"
+}
